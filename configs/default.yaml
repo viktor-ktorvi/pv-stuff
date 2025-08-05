@@ -1,4 +1,8 @@
 random_seed: 42
 
+iv_curve_method: lambertw
+
 defaults:
+  - plotting: default
+  - pv_module: canadian_solar_cs5p_220m
   - _self_ # https://hydra.cc/docs/1.2/upgrades/1.0_to_1.1/default_composition_order/

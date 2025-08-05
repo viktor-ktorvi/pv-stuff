@@ -1,4 +1,4 @@
-name: my-python-project-env
+name: pv-stuff-env
 channels:
   - conda-forge
 dependencies:
